@@ -5,6 +5,7 @@ this code book summarizes tidyData.txt.
 tranforamtions:
 
 1.merge data sets
+
 read tables below:
 features.txt
 activity_labels.txt
